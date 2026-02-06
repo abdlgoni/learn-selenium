@@ -7,7 +7,7 @@ Selenium Python automation framework untuk testing Wikipedia website.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/abdlgoni/wikipedia-automation.git
+git clone https://github.com/abdlgoni/lean-selenium.git
 cd wikipedia-automation
 ```
 
