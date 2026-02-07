@@ -20,7 +20,7 @@ class ArticlePage(BasePage):
         return title
     
     def is_article_loaded(self):
-        is_loaded = self.is_element_visible(self.ARTICLE_TITLE)
+        is_loaded = self.is_element_visible(self.ARTICLE_SUBTITLE)
         self.logger.debug(f"article loaded {is_loaded}")
         return is_loaded
     
